@@ -1,2 +1,2 @@
-# tara-rizyanti
-Tugas rangkuman
+# tararizyanti
+Tugas-rangkuman-belajar-Djago
